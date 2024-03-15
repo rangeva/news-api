@@ -8,12 +8,18 @@ You only need to complete three steps to use the News API Lite.
 - Go to the [News API web page](https://webz.io/products/news-api#lite).
 - Enter your email to receive your API key.
 
+![](https://webz.io/wp-content/uploads/2024/03/First-box.png)
+  
+
 ### 2. Make an API Request
 Use the API key provided to make your first call to the API. Make sure you also specify a search term in the request. For example, the following API request will return news articles related to the search term “Bitcoin.” The default time frame is 3 days, but you can set this to up to 30 days.
 
 - `https://api.webz.io/newsApiLite?token=[token]&q=Bitcoin`.
 
 Here is a screenshot showing a part of the API call results in a web browser:
+
+![](https://webz.io/wp-content/uploads/2024/03/step-2-API-call.png)
+
 
 ## 3. Explore Webz.io news data
 Experiment with different API call configurations, refining your searches with advanced features like [filters and Boolean queries](https://docs.webz.io/reference/news-blogs-discussions-api-overview). For example, you could search for news articles about U.S. President Joe Biden or his presidential challenger Donald Trump, refining the search to return articles with negative sentiment:
@@ -22,6 +28,7 @@ Experiment with different API call configurations, refining your searches with a
 
 This query includes negative news posts about President Biden or Donald Trump in the past 30 days. Here is a screenshot of the call results in a web browser:
 
+![](https://webz.io/wp-content/uploads/2024/03/Step-3.png)
 
 ## Limitations
 
