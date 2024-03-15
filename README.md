@@ -31,7 +31,7 @@ Experiment with different API call configurations, refining your searches with a
 
 This query includes negative news posts about President Biden or Donald Trump in the past 30 days. Here is a screenshot of the call results in a web browser:
 
-<img src="https://webz.io/wp-content/uploads/2024/03/Step-3.png" width="70%" height="80%">
+<img src="https://webz.io/wp-content/uploads/2024/03/step-3-corrected.png" width="70%" height="80%">
 
 
 
